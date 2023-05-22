@@ -1,0 +1,75 @@
+h1{
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-family: fantasy;
+  font-size: 80px;
+  font-weight: 100;
+  text-shadow: rgb(3, 250, 77);
+}
+
+h3{
+  color: blueviolet;
+  text-align: center;
+  font-size: 40px;
+  font-family: fantasy;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+table{
+  width: 65%;
+  text-align: center;
+  border: 3px solid black;
+  margin: 20px auto;
+  border-collapse: collapse;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+td{
+  background-color: rgb(160, 202, 241);
+  padding: 5px;
+  border: 1px solid black;
+  color: black;
+  font-size: 20px;
+}
+
+th{
+  background-color: rgb(122, 127, 194);
+  width: auto;
+  padding: 15px 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+input.case{
+  color: rgb(0, 0, 0);
+  border: 2px solid black;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  height: 30px;
+  width: 240px;
+  border-radius: 10px;
+  font-size: 15px;
+}
+
+div{
+  text-align: center;
+}
+
+input.bouton{
+  border-radius: 7px;
+  height: 30px;
+  width: 170px;
+  border: 2px solid black;
+  font-family: Arial, Helvetica, sans-serif²;
+  font-size: 15px;
+}
+
+hr{
+  border: 3px solid #95b5b8; 
+}
+
+label{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
